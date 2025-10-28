@@ -1,2 +1,2 @@
-# e-grapmult_learning
-This project is a Laravel bassed project of a Learning Managment System.
+# Gramult LMS
+This is the learning management system for Grapmult.
